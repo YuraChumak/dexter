@@ -1,0 +1,61 @@
+﻿@media (max-width:1050px){
+    .col_iphone {
+        margin-bottom: 0;
+    }
+    .section_5 .col {
+        padding: 140px 0;
+    }
+}
+@media (max-width:750px){
+    .section_5 .col {
+        padding: 40px 0;
+        width: 100%;
+    }
+    .col_iphone {
+        display: none;
+    }
+    .section_1 .center_col {
+        margin-top: 50px;
+        width: 100%;
+    }
+    .section_1 .container {
+        padding-bottom: 30px;
+    }
+    .section_1 .social {
+        margin: 0;
+        padding: 40px 0;
+    }
+    .section_3{
+        padding: 0;
+    }
+    .section_3 .col .testimonial {
+        max-width: 100%;
+    }
+    .section_3 .col_img, .section_4 .col_img {
+        text-align: center;
+        width: 100%;
+    }
+    .section_3 .col,
+    .section_4 .col{
+        width: 100%;
+    }
+    .section_4 .col {
+        margin-bottom: 50px;
+    }
+    .section_1 .social span {
+        margin-bottom: 10px;
+    }
+    footer .col {
+        padding:70px 0 0;
+        width: 100%;
+    }
+    footer .col.skype {
+        padding-bottom: 70px;
+    }
+}
+@media (max-width:500px){
+    .section_2 .col{
+        padding: 40px 0 20px;
+        width: 100%;
+    }
+}
